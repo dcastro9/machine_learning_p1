@@ -1,0 +1,17 @@
+\begin{thebibliography}{\protect\citename{Charles~Mallah and Orwell }2013}
+
+\bibitem[\protect\citename{Charles~Mallah and Orwell }2013]{Mallah:2013}
+{\sc Charles~Mallah, J.~C., and Orwell, J.}, 2013.
+\newblock Plant leaf classification using probabilistic integration of shape,
+  texture and margin features.
+
+\bibitem[\protect\citename{Frank and Asuncion }2010]{Frank+Asuncion:2010}
+{\sc Frank, A., and Asuncion, A.}, 2010.
+\newblock {UCI} machine learning repository.
+
+\bibitem[\protect\citename{Hall et~al\mbox{.} }2010]{Hall_weka:2010}
+{\sc Hall, M., Frank, E., Holmes, G., Pfahringer, B., Reutemann, P., and
+  Witten, I.~H.}, 2010.
+\newblock The weka data mining software: An update.
+
+\end{thebibliography}
