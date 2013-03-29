@@ -20,5 +20,5 @@ My datasets:
    in the data/Plant_Dataset/ directory.
 
 File Directory Explanation:
-dcastro9-analysis.pdf: This file contains a complete analysis of the two 
+machine_learning_p1.pdf: This file contains a complete analysis of the two 
 datasets.
